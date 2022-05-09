@@ -31,7 +31,7 @@ Visit the deployed website: [The Planeteers](https://rvn-r.github.io/the-planete
 <br>
 
 ### Project Goals
-Our goal of the project was to design and create an informative, fun, interactive website and bring knowledge and awareness of how important it is to take care of our planet, not just for our generation, but for the generations ahead.- The website contains our group logo, “The Planeteers”, “Home”, with “Game” and “About Us” linking to additional pages. Also, each page consists of a matching footer page with social networking links, blue for recycle and turn green on hover, for the user going the “green” option to find out more. The social networking links are set for their respective home pages for the moment. Additional links are provided for other external sources used.- The Home page consists of 3 sections that are “Air”, “Land” and “Water”.  
+Our goal of the project was to design and create an informative, fun, interactive website and bring knowledge and awareness of how important it is to take care of our planet, not just for our generation, but for the generations ahead. The website contains our group logo, “The Planeteers”, “Home”, with “Game” and “About Us” linking to additional pages. Also, each page consists of a matching footer page with social networking links, blue for recycle and turn green on hover, for the user going the “green” option to find out more. The social networking links are set for their respective home pages for the moment. Additional links are provided for other external sources used.- The Home page consists of 3 sections that are “Air”, “Land” and “Water”.  
 
 * **AIR**: Clean air to breath.  
 * **LAND**: Good land to grow crops.  
